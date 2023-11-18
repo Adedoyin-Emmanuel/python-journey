@@ -21,7 +21,7 @@ Enough talking, show me the code 🤣, so yeah let me map what've learnt from **
 ## What've Learnt 🤏
 
 1. What Python is
-2. Who built Python and what language it was built it.
+2. Who built Python and what language it was built it, Linters, Autopep8 etc.s
 3. Fundamentals of Python, printing Hello World.
 4. Variables and Arithmetic Operations, there I learnt that using
 
