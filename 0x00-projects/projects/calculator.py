@@ -2,13 +2,18 @@
 Simple calculator in Python
 """
 
-print("Python calculator\n")
-print("Enter quit to quit")
+print("Emmysoft Python calculator\n")
+print("Type quit to exit the program")
 
 command = input(">")
+
+def reset():
+    command = input(">")
+
 while True:
     if(command.lower() == "quit"):
         break
     result = eval(command)
 
     print(result)
+    reset()
