@@ -64,3 +64,5 @@ num2 = num2 + num1
 5. Control Flow, if statements, elif statements and else statement. I also learnt something funny which I couldn't really answer. Let me test your knowledge. **Mosh** asked this question What's an expression ? it sounds easy but it was kinda complex to think of and funny how interviewers can ask this and you think you know the entire language already 🤣 but you don't know simple concepts. Well an expression is simply a piece or block of code that produces a result.
 
 6. Loops, while loop, for in loop and that's where I'm currently at, I also learnt that the **range** function is actually a data type, it is a complex data type and it is an iteratable, which means you can loop over it just like strings. Now trying to get the type of the range function returns a range which tells us that it is a data type too.
+
+7. Data Structures
