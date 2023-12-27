@@ -7,14 +7,14 @@ class Dog:
     #this is a class method
     @classmethod
     def bite(self):
-        print("Dog want's to bite")
+        print("Dog wants to bite")
 
 
-    def woof(self):
+    def bark(self):
         print("Woof woof")
     
 
 
 dog = Dog()
 
-dog.woof()
+dog.bark()
